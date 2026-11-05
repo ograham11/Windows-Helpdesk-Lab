@@ -1,0 +1,60 @@
+Ticket 001 — Windows 11 Low Disk Space
+
+Category: Windows OS / Storage Management
+Environment: Personal Windows 11 laptop
+Ticket Type: Self-directed troubleshooting exercise
+Status: Resolved
+
+1. Problem Description
+
+The Windows 11 computer had limited available storage, reducing the capacity available for additional software and virtual machines.
+
+The objective was to identify the primary sources of disk usage, safely remove unnecessary files and applications, and verify that sufficient storage had been recovered.
+
+2. Troubleshooting Process
+
+Reviewed available disk space on the Windows 11 system.
+
+Investigated files and installed applications consuming storage.
+
+Identified accumulated files in the Downloads directory as a significant contributor to storage usage.
+
+Reviewed unnecessary applications, including software no longer required.
+
+Uninstalled selected applications and cleaned up unnecessary downloaded files.
+
+Rechecked disk usage to evaluate the results.
+
+3. Root Cause
+
+Excessive storage consumption was primarily associated with accumulated downloaded files, with unused applications also contributing to disk usage.
+
+4. Resolution
+
+Removed unnecessary downloaded files and applications to recover available storage capacity.
+
+5. Verification
+
+Subsequent storage checks showed increased available disk space, ultimately reaching approximately 54.5 GB free.
+
+The original low-storage condition was improved through cleanup. No hardware replacement or operating system reinstallation was required.
+
+6. Lessons Learned
+
+Check storage usage before assuming that disk capacity must be upgraded.
+
+Investigate folders containing large or accumulated files.
+
+Use built-in Windows utilities to diagnose storage issues.
+
+Verify a corrective action by comparing system measurements.
+
+Document troubleshooting steps for future reference.
+
+7. Evidence
+
+Attach available screenshots of Windows storage information and relevant cleanup results, with personal information removed.
+
+8. Outcome
+
+Resolved: Identified significant sources of storage consumption, performed cleanup, and verified recovered disk space.
